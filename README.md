@@ -46,3 +46,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## Contact
 If you have any questions or suggestions, please open an issue or contact me at roddazad@gmail.com.
 
+## Link to the live Website:
+https://roddazad.github.io/password-generator/
+## Link to the Repository:
+https://github.com/roddazad/password-generator
